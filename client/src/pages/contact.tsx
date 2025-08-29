@@ -305,7 +305,7 @@ const Contact = () => {
                       <a 
                         href="#" 
                         className="w-10 h-10 gradient-gold rounded-full flex items-center justify-center hover:scale-110 transition-transform duration-300"
-                        data-testid="https://www.instagram.com/xpr_media_agency/"
+                        data-testid='https://www.instagram.com/xpr_media_agency/'
                       >
                         <Instagram className="h-5 w-5 text-background" />
                       </a>
