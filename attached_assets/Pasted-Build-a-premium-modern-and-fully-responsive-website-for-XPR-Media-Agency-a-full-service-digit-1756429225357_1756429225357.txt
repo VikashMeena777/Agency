@@ -1,0 +1,65 @@
+Build a premium, modern, and fully responsive website for **XPR Media Agency**, a full-service digital agency that provides promotions, video editing, content creation, influencer marketing, UGC, reels bundles, thumbnails, and affordable digital courses. The design should be sleek, professional, and high-end, using a **black and gold theme with white accents**, elegant typography (Playfair Display for headings, Montserrat for body), and **smooth motion effects** including **parallax scrolling, hover animations, fade-ins, and smooth page transitions**.
+
+The site must have the following pages and features:
+
+1. **Homepage**:
+   - Hero Section with animated headline: “Your Complete Path to Online Success” and subheadline: “Premium digital services & products to grow your brand.” Include two CTAs: “Start Growing Today” and “Explore Services”.
+   - About Us (short version) with link to About page.
+   - Featured Services section (3 services with hover effects and “View All Services” button).
+   - Featured Products section highlighting digital courses (with “Explore Products” button).
+   - Why Choose Us section with animated icons (Affordable + Premium Quality, AI-Powered Services, Full-Service Agency, 24/7 Support, Fast Delivery).
+   - Testimonials carousel with smooth transitions.
+   - Blog preview section (3 latest posts).
+   - Contact & Booking form with a WhatsApp chat widget.
+
+2. **About Us Page**:
+   - Our Mission, Vision, The XPR Advantage.
+   - Optional animated team cards.
+
+3. **Services Page (Marketplace Style)**:
+   - Header: “Our Premium Services”.
+   - Grid layout with hover animations for each service:
+     - Promotions
+     - Video Editing
+     - UGC Creation
+     - Reels Bundles
+     - Thumbnail Design
+     - Content Creation
+     - Influencer Marketing
+   - Each service card: image, title, short description, price placeholder, and CTA button (“Book Now” or “Get Started”).
+   - Include filter option for easy navigation.
+
+4. **Products Page (Digital Marketplace)**:
+   - Header: “Explore Our Digital Products”.
+   - Product grid with hover effects for courses and future digital products.
+   - Each product card includes: image, title, price, short description, and **Add to Cart / Buy Now** button.
+   - Integrated secure checkout (Stripe or PayPal).
+
+5. **Why Choose Us Page**:
+   - Detailed explanation of USPs with icons and animations:
+     - Affordable + Premium Quality
+     - AI-Powered Services
+     - Full-Service Agency
+     - 24/7 Support
+     - Fast Delivery
+
+6. **Blog Page**:
+   - Grid of blog posts with thumbnails and preview text.
+   - Categories: Influencer Tips, Digital Marketing, Content Creation.
+
+7. **Contact Page**:
+   - Contact form, WhatsApp live chat button, integrated booking calendar (Calendly or similar), and social media links.
+
+**Global Features**:
+- Sticky navigation bar with smooth hover animations.
+- Dark premium theme (black background, gold accents, white text highlights).
+- Motion effects: parallax scrolling, hover animations on cards, fade-in sections, smooth transitions between pages.
+- Mobile-first design, fast loading, and SEO optimized.
+- Social media feed integration.
+- Testimonial slider on homepage.
+- Blog system integrated.
+- Payment gateway for products.
+- Booking system for services.
+- 24/7 support widget (WhatsApp or Messenger).
+
+The overall style must be **premium, modern, creative, and highly engaging with motion interactions**.
