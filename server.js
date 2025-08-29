@@ -1,21 +1,27 @@
-const express = require("express");
-const cors = require("cors");
-const bodyParser = require("body-parser");
-require("dotenv").config();
+const express = require('express');
+const cors = require('cors');
+const dotenv = require('dotenv');
 
-const authRoutes = require("./routes/auth");
+dotenv.config();
 
 const app = express();
-app.use(cors());
-app.use(bodyParser.json());
+const PORT = process.env.PORT || 5000;
 
-app.use("/api/auth", authRoutes);
+// Middleware
+app.use(cors({
+  origin: 'http://localhost:5173', // Vite default port for dev
+  credentials: true,
+}));
+app.use(express.json());
 
-app.get("/", (req, res) => {
-  res.send("Agency Authentication API is running");
+// Example API route
+app.get('/api/health', (req, res) => {
+  res.json({ status: 'ok', message: 'Backend is running!' });
 });
 
-const PORT = process.env.PORT || 3000;
+// TODO: Add your other API routes here, e.g.:
+// app.use('/api/auth', require('./routes/auth'));  
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
