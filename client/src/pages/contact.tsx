@@ -77,7 +77,7 @@ const Contact = () => {
   const handleWhatsAppClick = () => {
     const phoneNumber = "1234567890";
     const message = "Hi! I'm interested in your digital services. Can you help me?";
-    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/${7630872255}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, "_blank");
   };
 
@@ -264,7 +264,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-semibold">Email</p>
-                      <p className="text-muted-foreground">hello@xprmedia.com</p>
+                      <p className="text-muted-foreground">xprmediaagency.help@gmail.com</p>
                     </div>
                   </div>
 
@@ -274,7 +274,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-semibold">Phone</p>
-                      <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                      <p className="text-muted-foreground">+91 7630872255</p>
                     </div>
                   </div>
 
@@ -284,7 +284,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-semibold">Location</p>
-                      <p className="text-muted-foreground">New York, NY 10001</p>
+                      <p className="text-muted-foreground">Bhilwara, Rajasthan, India</p>
                     </div>
                   </div>
 
@@ -305,7 +305,7 @@ const Contact = () => {
                       <a 
                         href="#" 
                         className="w-10 h-10 gradient-gold rounded-full flex items-center justify-center hover:scale-110 transition-transform duration-300"
-                        data-testid="contact-social-instagram"
+                        data-testid="https://www.instagram.com/xpr_media_agency/"
                       >
                         <Instagram className="h-5 w-5 text-background" />
                       </a>
